@@ -3,7 +3,7 @@ require('../shaders/CopyShader');
 require('../shaders/FilmShader');
 require('../shaders/ConvolutionShader');
 require('../shaders/FXAAShader');
-var chromaticAberrationShader = require('../postprocessing/chromaticAberration');
+var chromaticAberrationShader = require('../postprocessing/ChromaticAberration');
 var StereoEffect = require('../vendor/StereoEffect');
 
 //Singletons

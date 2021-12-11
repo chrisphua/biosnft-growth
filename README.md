@@ -4,7 +4,8 @@ Growth in life is mesmerizing with the intricacies of the structures that are cr
 
 * [Growth #1 - From seedling to tree](http://gregtatum.com/poems/growth/#/1-seedling)
 
-Copy and paste to Terminal
+Copy and paste the following to Terminal
+(Require node and npm installed)
 ```
 cd ~/Downloads
 git clone https://github.com/chrisphua/biosnft-growth.git
@@ -13,3 +14,4 @@ npm ci
 npm run build
 npm start
 ```
+Then open http://localhost:9966/ in your browser
